@@ -11,7 +11,7 @@ on:
 
 jobs:
   build:
-    if: github.repository == 'azuredevcollege/trainingdays'
+    if: github.repository == 'abazdc/trainingdays'
     runs-on: ubuntu-latest
 
     steps:
